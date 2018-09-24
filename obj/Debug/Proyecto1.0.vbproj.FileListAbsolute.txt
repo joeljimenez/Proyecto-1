@@ -1,0 +1,12 @@
+D:\Documentos\Programacion\Proyecto\Versión1\Proyecto1.0\bin\Debug\Proyecto1.0.exe.config
+D:\Documentos\Programacion\Proyecto\Versión1\Proyecto1.0\bin\Debug\Proyecto1.0.exe
+D:\Documentos\Programacion\Proyecto\Versión1\Proyecto1.0\bin\Debug\Proyecto1.0.pdb
+D:\Documentos\Programacion\Proyecto\Versión1\Proyecto1.0\bin\Debug\Proyecto1.0.xml
+D:\Documentos\Programacion\Proyecto\Versión1\Proyecto1.0\obj\Debug\Proyecto1.0.vbprojAssemblyReference.cache
+D:\Documentos\Programacion\Proyecto\Versión1\Proyecto1.0\obj\Debug\Proyecto1._0.Form1.resources
+D:\Documentos\Programacion\Proyecto\Versión1\Proyecto1.0\obj\Debug\Proyecto1._0.Resources.resources
+D:\Documentos\Programacion\Proyecto\Versión1\Proyecto1.0\obj\Debug\Proyecto1.0.vbproj.GenerateResource.cache
+D:\Documentos\Programacion\Proyecto\Versión1\Proyecto1.0\obj\Debug\Proyecto1.0.vbproj.CoreCompileInputs.cache
+D:\Documentos\Programacion\Proyecto\Versión1\Proyecto1.0\obj\Debug\Proyecto1.0.exe
+D:\Documentos\Programacion\Proyecto\Versión1\Proyecto1.0\obj\Debug\Proyecto1.0.xml
+D:\Documentos\Programacion\Proyecto\Versión1\Proyecto1.0\obj\Debug\Proyecto1.0.pdb
